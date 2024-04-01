@@ -56,6 +56,6 @@ print("\nOverall informations\n")
 print(f"Items total Weight: {total_weight}\npackages sent: {packages_sent}\nTotal 'unused' capacity: {unused_space}\npackage max unused space: {package_with_max_unused_weight}\nmax unused pace in the packet: {max_unused_weight}" )
 
 
-
-
- 
+  
+            #    print("Not enough founds")
+            #    breakbalance
